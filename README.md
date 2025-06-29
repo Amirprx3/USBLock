@@ -5,7 +5,7 @@
 
   ![USBLock Logo](https://img.shields.io/badge/USBLock-v1.0-blue?style=for-the-badge&logo=usb&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-  ![Portable](https://img.shields.io/badge/Portable-Ready-success?style=for-the-badge&logo=download&logoColor=white)
+  ![Setup](https://img.shields.io/badge/Setup-Ready-success?style=for-the-badge&logo=download&logoColor=white)
   ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
   
   **Professional USB Drive Security Management Tool**
