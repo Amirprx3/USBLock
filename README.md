@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download USBLock](https://img.shields.io/badge/Download-USBLock%20v1.0-blue?style=for-the-badge&logo=download)](https://github.com/Amirprx3/usblock/releases/latest/download/USBLock-Setup.exe)
+[![Download USBLock](https://img.shields.io/badge/Download-USBLock%20v1.0-blue?style=for-the-badge&logo=download)](https://github.com/Amirprx3/usblock/releases/latest)
 
 </div>
 
