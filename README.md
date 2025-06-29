@@ -86,7 +86,7 @@
 |-----------|-------------|
 | **OS** | Windows 10/11 (x64) |
 | **RAM** | 512 MB minimum |
-| **Storage** | 20 MB free space |
+| **Storage** | 50 MB free space |
 | **Privileges** | Administrator rights |
 | **Dependencies** | None (all included) |
 
